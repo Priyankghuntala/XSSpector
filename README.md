@@ -12,6 +12,12 @@ Developed an XSS (Cross-Site Scripting) Vulnerability Scanner to detect vulnerab
 1. Clone the repository:
    ```bash
    git clone https://github.com/Priyankghuntala/XSSpector.git
-2. cd XSSpector
-3. chmod +x XSSpecter.py
-4. python3 XSSpector.py 
+2. Change The Directory
+   ```bash
+   cd XSSpector
+3. Set All Permission 
+   ```bash
+   chmod +x XSSpecter.py
+4. Run Tool
+   ```bash
+   python3 XSSpector.py 
